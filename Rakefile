@@ -1,6 +1,6 @@
 require_relative './config/environment'
 
-puts "Welcome to Authors, Stories, and Categories..."
+puts "Welcome to Airframes, Pilots, and AMOs within the squadron..."
 
 def reload!
   load './lib/airframe.rb'

@@ -1,3 +1,3 @@
-class Amo
+class AMO
     attr_accessor :name
 end
